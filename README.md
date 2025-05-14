@@ -1,5 +1,6 @@
 # WATonomous ASD Admissions Assignment
 This repo follows the WATonomous ASD Admission Assignment. Link to Onboarding Assignment: https://wiki.watonomous.ca/
+[Watch demo video on Google Drive]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1IPKhaaE9U4gJn3wf9zgw3pthIX3rKosZ/view?usp=drive_link))
 This project implements a modular autonomous navigation stack using **ROS 2**, enabling a mobile robot to autonomously navigate to user-defined goals while avoiding dynamic obstacles. The stack includes:
 
 - **Costmap Node**: Subscribes to `/lidar` data and generates a local occupancy grid with obstacle inflation.
